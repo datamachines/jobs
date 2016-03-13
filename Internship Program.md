@@ -22,3 +22,5 @@ DARPA Research interns will be expected to live and work in the Arlington Virgin
 * Publicly viewable open source code contributions hosted on Github or elsewhere. 
 * Active participation in an open source project related to devops, machine learning, or big data. 
 * Active or Current US Government Security Clearance. 
+
+To apply, send your resume to hiring@datamachines.io with your name and "2016 DARPA Research Cloud Intern" in the email subject. 
