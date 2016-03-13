@@ -1,2 +1,5 @@
-# jobs
-This repository contains descriptions of opportunities at http://DataMachines.io/.
+# Opportunities at DataMachines.io
+
+Currently hiring:  
+* [2016 Summer Intern Program](Internship Program.md)  
+
