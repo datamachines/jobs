@@ -1,6 +1,6 @@
 # Tips for applying to Data Machines Internships
 
-Congratulations! Going to the website and clicking on the series of links which brought you to this tips section was a good idea. Mention that you found it during your interview. It's a great indicator of your ability to solve problems and find information. We're excited to talk to _you_!
+Congratulations! Going to the website and clicking on the series of links which brought you to this note was a good idea. Mention that you found it during your interview. It's a great indicator of your ability to solve problems and find information. We're excited to talk to _you_!
 
 Here are some tips to ensure your interview is successful.
 
