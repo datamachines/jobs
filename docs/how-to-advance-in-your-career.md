@@ -1,5 +1,5 @@
 # Tips and advice for progressing in your career
-Random notes for those who want to move into or succeed in leadership role at Data Machines. 
+Random notes for those who want to move into or succeed in leadership roles at Data Machines. 
 
 ## Finish projects
 It's easy to start new projects, it's hard to finish them. Although you may have personally developed through learning while working on projects that you don't finish, they aren't something you can point to as a success until they are finished. When somebody asks "show me what you got", try make sure you have something to point to for each project you've started or contributed to. This can be anything from openly available code, a publication, or even a summary write-up or presentation to show. The best kind of finished project is code running in production and touched by real users.  
