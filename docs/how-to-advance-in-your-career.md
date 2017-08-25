@@ -30,6 +30,14 @@ Leaders are problem solvers. If you've identified a problem and need to brief it
 ## Be cognitively courteous to others
 Being cognitively courteous means communicating in a way that gets your point across without requiring the receiving person to have to think or work very hard to understand you or make a decision. Write short emails. Take the time to re-read your emails before sending and see how short you can make them. Nearly all correspondence should be less than 5 sentences. Also, when making recommendations or requesting a meeting, suggest dates and times. Don't ask "to meet next week" as this requires the receiver to think through prioritizing their next week and make guesses about your calendar. Instead ask to "meet next Tuesday at 10am in the blue conference room"; this makes the receiver only have to make a binary decision instead of trying to evaluate a range of possibilities. 
 
+## Look people in the eyes when they talk and listen
+Don't be afraid to look people in the eyes. Pay attention and listen. Your ability to listen to what people are saying is absolutely the most important thing you can do as a leader. 
+
+## Always have something to write with and something to write on
+Never be caught without a pen and paper. If you're in a meeting, always take notes. Note the date and time of the meeting (in ISO 8601 format), who attended, what is discussed, and what the action items are. Draw check-boxes for your own action items. Put stars next to the really important action items. Review your notes and follow up. 
+
+
+
 
 
 
