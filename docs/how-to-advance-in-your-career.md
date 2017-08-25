@@ -39,6 +39,14 @@ Never be caught without a pen and paper. If you're in a meeting, always take not
 ## Continually seek self improvement
 You've never have and never will "make it". Continually look for and take action on ways to improve your professional capability, thoughtfullness, compassion, kindness, generosity, and the other traits that make you a good person that people want to work with.
 
+## Bloom where you are planted
+You need to ensure you are relevant to your environment. The work you have on your plate is what you have. Put the effort in to do well with the challenges and tools at your immediate disposal. If you do poorly with what you have, it's far less likely you'll be trusted with more difficult challenges or more powerful tools. 
+
+## Be generous with your time
+If somebody wants to talk to you, stop what you're doing and give them your time freely. Have meaningful and unrushed conversations. This includes your family. It's ok to stop working when interrupted by your family and spend time with them. Conversely, do set aside uninterrupted time to focus. Understanding that since we think for a living, interruptions can be time-consuming to recover from and destructive. Balancing your time and ability to focus and also being generous with your time will be a continual struggle. There's no right answer. You need to make this balance happen in a way that is supportive to you, your colleagues and family, and your work.
+
+
+
 
 
 
