@@ -54,6 +54,9 @@ Always start emails with a positive sentence to set the tone. If replying, write
 ## Praise in public
 Never give negative feedback in public, in email, text, or any written correspondence. Doing so publicly is hurtful and embarrassing and that pain will become all that the recepient hears. Have necessary difficult conversations in person and in private and keep them tactful and succinct and only if absolutely necessary. If possible, use metaphor and analogy as opposed to direct criticism to allow the recepient to objectively understand the problem rather than focusing on their own humiliation. Ask them for their opinions and thoughts and LISTEN. 
 
+## Guard your reputation and stay beyond reproach
+Perception is reality. If somebody perceives you as having bad traits, that colors the reality of the interactions you will have with them. Staying beyond reproach doesn't mean being perfect, it means making good decisions both in and out of work. You can't always be perfect, but you can always be ethical and honest in what you do. Be a caring and thoughtful human being. Don't associate with others who don't value legal and ethical conduct. Be aware of how your actions and associations might color other's perception of you. Spend the time to communicate to manage your reputaiton and guard it from misrepresentation or misunderstanding. We also sometimes work in competitive environments, so don't give your colleagues uneccessary potential ammunition to use against you intentionally or accidentally. Even ethical and honest people can mistake or misrepresent facts to better fit an incorrect or unflattering narrative. As a leader you need to be aware of this and take it into consideration during your interactions. Your personal reputation is the most valuable thing you own, guard it carefully. 
+
 
 
 
