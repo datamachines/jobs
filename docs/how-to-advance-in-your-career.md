@@ -36,6 +36,9 @@ Don't be afraid to look people in the eyes. Pay attention and listen. Your abili
 ## Always have something to write with and something to write on
 Never be caught without a pen and paper. If you're in a meeting, always take notes. Note the date and time of the meeting (in ISO 8601 format), who attended, what is discussed, and what the action items are. Draw check-boxes for your own action items. Put stars next to the really important action items. Review your notes and follow up. 
 
+## Continually seek self improvement
+You've never have and never will "make it". Continually look for and take action on ways to improve your professional capability, thoughtfullness, compassion, kindness, generosity, and the other traits that make you a good person that people want to work with.
+
 
 
 
