@@ -57,7 +57,8 @@ Never give negative feedback in public, in email, text, or any written correspon
 ## Guard your reputation and stay beyond reproach
 Perception is reality. If somebody perceives you as having bad traits, that colors the reality of the interactions you will have with them. Staying beyond reproach doesn't mean being perfect, it means making good decisions both in and out of work. You can't always be perfect, but you can always be ethical and honest in what you do. Be a caring and thoughtful human being. Don't associate with others who don't value legal and ethical conduct. Be aware of how your actions and associations might color other's perception of you. Spend the time to communicate to manage your reputaiton and guard it from misrepresentation or misunderstanding. We also sometimes work in competitive environments, so don't give your colleagues uneccessary potential ammunition to use against you intentionally or accidentally. Even ethical and honest people can mistake or misrepresent facts to better fit an incorrect or unflattering narrative. As a leader you need to be aware of this and take it into consideration during your interactions. Your personal reputation is the most valuable thing you own, guard it carefully. 
 
-
+## Understand every single person is different
+As a leader you deal with people. People are not computers. Every single one has a life as complex (or more) than your own. Everybody will have good days and bad days. Respect that. There are very few general approaches to communicating or problem solving that work with everyone. Spend the time to make sure the approach you're using for each person is tailored to their own complex reality, biases, and mood. 
 
 
 
