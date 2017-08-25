@@ -48,6 +48,11 @@ If somebody wants to talk to you, stop what you're doing and give them your time
 ## Write lots of emails and make lots of phone calls
 Good leaders are deliberate and prolific in their communications. This is second in importance only to listening when others communicate back. Don't sit and wonder about something and don't ever "wait" on somebody else. If you've ever said the statement "I'm waiting on x to do y", you're wrong. Never wait. Email or call and know that x will do y next Monday morning. Then email or call again to see how y went and if x needs any help. This is how things get done. 
 
+## Write good emails
+Always start emails with a positive sentence to set the tone. If replying, write a simple "Thank you for <something short, positive, and specific>!" Be careful of the words you use, i.e. never start a sentence with a negative statement such as "no, that's wrong". Be succinct and cognitively courteous with what you want to say. End the email with another positive sentence. 
+
+## Praise in public
+Never give negative feedback in public, in email, text, or any written correspondence. Doing so publicly is hurtful and embarrassing and that pain will become all that the recepient hears. Have necessary difficult conversations in person and in private and keep them tactful and succinct and only if absolutely necessary. If possible, use metaphor and analogy as opposed to direct criticism to allow the recepient to objectively understand the problem rather than focusing on their own humiliation. Ask them for their opinions and thoughts and LISTEN. 
 
 
 
