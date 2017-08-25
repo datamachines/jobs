@@ -45,7 +45,8 @@ You need to ensure you are relevant to your environment. The work you have on yo
 ## Be generous with your time
 If somebody wants to talk to you, stop what you're doing and give them your time freely. Have meaningful and unrushed conversations. This includes your family. It's ok to stop working when interrupted by your family and spend time with them. Conversely, do set aside uninterrupted time to focus. Understanding that since we think for a living, interruptions can be time-consuming to recover from and destructive. Balancing your time and ability to focus and also being generous with your time will be a continual struggle. There's no right answer. You need to make this balance happen in a way that is supportive to you, your colleagues and family, and your work.
 
-
+## Write lots of emails and make lots of phone calls
+Good leaders are deliberate and prolific in their communications. This is second in importance only to listening when others communicate back. Don't sit and wonder about something and don't ever "wait" on somebody else. If you've ever said the statement "I'm waiting on x to do y", you're wrong. Never wait. Email or call and know that x will do y next Monday morning. Then email or call again to see how y went and if x needs any help. This is how things get done. 
 
 
 
