@@ -8,11 +8,10 @@ It's easy to start new projects, it's hard to finish them. Although you may have
 Be eager and ready to contribute, always. If somebody is coming to you, it's because they need help. If you think what they need is a bad idea or that they have underestimated the level of effort, suspend your disbelief for long enough to do some objective thinking, research, and evaluation. If you still think it's a bad idea or too difficult, still say yes but try to honestly and accurately present what you feel is the actual level of effort or downsides. Then if they still want to move forward, help anyway. You'll gain a friend and still learn along the way. 
 
 ## Go to meetings
-Go to meetings when invited. If you weren't invited but wanted to go, ask to attend anyway. Try to have a useful opinion and be accurate and thoughtful in what you say.  
+If you weren't invited to a meeting or private slack channel but wanted to be, ask to attend anyway. Try to have a useful opinion and be accurate and thoughtful in what you say. Being a leader means getting involved in the conversations that lead to project or company decisions. You, as an employee, are welcome to join in and contribute. We will happily pile access and responsibility on anybody that wants it and demonstrates consistently good results.     
 
 ## Never let your personal feelings detract from you work
 Some work is stressful. Try to relax and do the objectively best thing. We get it, you care. A lot. But you do your best work when you're objective and methodical. Try to maintain that through all things. Especially when interacting with other humans.  
-
 ## Avoid burn-out
 Burnout is a real risk. It usually is caused by being too emotionally tied to the work. Somewhat ironically, the main symptom of burnout from caring too much is not caring at all. If you find yourself not caring about your work, you've burned yourself out. Take a step back, take a day off, watch a good movie, spend time with your family, go outside and do something fun. Let your inspiration and motivation come back naturally, it usually will within a day or two.  
 
